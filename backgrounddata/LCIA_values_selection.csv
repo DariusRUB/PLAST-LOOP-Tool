@@ -1,0 +1,19 @@
+﻿Realer Stoffstrom;Einheit;Global warming potential [kg CO2-eq];Acidification  [kg SO2-eq];Freshwater Eutrophication [kg P-eq];fossil fuel potential [kg oil-eq];surplus ore potential [kg Cu-eq];Datenbank Prozess
+Electricity reaction (input);kWh;0,44635;0,00085;0,00063;0,1097;0,00338;market for electricity, low voltage | electricity, low voltage | Cutoff, S - DE
+Water (input);cubic meter;0;0;0;0;0;Water, cooling, unspecified natural origin (elemental flow)
+Catalyst (input);kg;5,30229;0,02144;0,00199;1,35704;0,35255;market for zeolite, powder | zeolite, powder | Cutoff, S - GLO
+Hydrogen (input);kg;2,70236;0,01053;9,95E-05;3,34472;0,03431;market for hydrogen, gaseous | hydrogen, gaseous | Cutoff, S - GLO
+Electricity Downstream (input);kWh;0,44635;0,00085;0,00063;0,1097;0,00338;market for electricity, low voltage | electricity, low voltage | Cutoff, S - DE
+Heat Downstream (input);kWh;0,40509;0,00075;4,46E-05;0,12465;0,00188;market for heat, from steam, in chemical industry | heat, from steam, in chemical industry | Cutoff, S - RER
+Starting oil (input);kg;0,76147;0,00179;4,51E-05;1,09111;0,01165;market for heavy fuel oil | heavy fuel oil | Cutoff, S - Europe without Switzerland
+Naphtha (output as product);kg;0,78363;0,00176;3,98E-05;1,17514;0,01367;naphtha production, petroleum refinery operation | naphtha | Cutoff, S - Europe without Switzerland
+Diesel (output as product);kg;0,90107;0,00248;4,14E-05;1,19458;0,0165;diesel production, petroleum refinery operation | diesel | Cutoff, S - Europe without Switzerland
+Heavy oil (output as product);kg;0,73076;0,00163;3,60E-05;1,08229;0,01055;heavy fuel oil production, petroleum refinery operation | heavy fuel oil | Cutoff, S - Europe without Switzerland
+Caprolactam (output as product);kg;8,53345;0,02571;0,00115;3,32619;0,05717;caprolactam, production mix - DE
+Styrene (output as product);kg;3,07562;0,00826;0,00052;1,88765;0,01132;styrene production | styrene | Cutoff, S - RER
+Ethylbenzene (output as product);kg;1;1;1,00E+00;1;1;tba
+Process gas (output as waste);kg;0,94343;0,00022;1,30E-06;0,00036;0,00015;Treatment of carboliq gas - DE (self defined)
+Residue (output as waste);kg;2,33412;0,0027;0,00016;0,58845;0,01223;treatment of refinery sludge, hazardous waste incineration, with energy recovery | refinery sludge | Cutoff, S - Europe without Switzerland
+Metals (output as product) ;kg;0,01025;2,73E-05;8,22E-07;0,00326;0,00021;market for ferrous metal, in mixed metal scrap | ferrous metal, in mixed metal scrap | Cutoff, S - Europe without Switzerland
+Wastewater (output as waste);cubic meter;0,34292;0,00107;0,00129;0,05631;0,00643;treatment of wastewater, average, wastewater treatment | wastewater, average | Cutoff, S - Europe without Switzerland
+Particles  < 2mm (output as waste);kg;0,52238;0,00016;3,84E-05;0,00746;0,00135;treatment of municipal solid waste, incineration | municipal solid waste | Cutoff, S

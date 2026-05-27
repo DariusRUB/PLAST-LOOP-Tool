@@ -1,0 +1,13 @@
+{
+    "Energy [kWh]": "Electricity reaction (input)",
+    "Yield Naphtha": "Naphtha (output as product)",
+    "Yield Diesel": "Diesel (output as product)",
+    "Yield heavy": "Heavy oil (output as product)",
+    "Yield styrene": "Styrene (output as product)",
+    "Downstream hydrogen": "Hydrogen (input)",
+    "Downstream electricity": "Electricity Downstream (input)",
+    "Downstream heat [kWh]": "Heat Downstream (input)",
+    "Gas [-]": "Process gas (output as waste)",
+    "Residue [-]": "Residue (output as waste)",
+    "Cat": "Catalyst (input)"
+}
